@@ -13,7 +13,7 @@ ul {
 }
 
 p {
-  line-height: 1.6;
+  line-height: 1.7;
   margin-bottom: 12px;
 }
 
@@ -96,8 +96,10 @@ button {
     justify-content: space-between;
     list-style-type: none;
     width: 100%; 
-    padding: 8px 0px;
+    padding: 20px 0px;
     margin: 8px 0px;
+    margin-bottom: 15px;
+   line-height: 1.7;
 }
 
 footer {
@@ -107,4 +109,5 @@ footer {
     font-size: 0.7rem;
     margin-top: 200px;
 }
+
 
